@@ -42,6 +42,17 @@ Clear drawback but a risk you take with any Pi. If the OS is not supported anylo
 
 ## Basic Setup
 
+### Install Armbian on the SDCard
+
+### Configure the Pi
+
+### Install the Pi
+
+### Install the Firewall Builder
+
+### 
+
+
 ## Firewall Setup
 
 ## DNS
