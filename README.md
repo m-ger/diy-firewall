@@ -42,9 +42,21 @@ Clear drawback but a risk you take with any Pi. If the OS is not supported anylo
 
 ## Basic Setup
 
+### Download Armbian
+Armbian is typically available for two diffrent linux distributions. Debiand and Ubuntu.  
+Use the Debian image. For the actual Release Buster here is the link:
+#### Downloadlink: https://dl.armbian.com/orangepi-r1/Debian_buster_next.7z
+
 ### Install Armbian on the SDCard
+I'd highly recommend EtcherIO because this software worked so great in the past and is available for many operation systems.
+But in fact you can use any way or software which flashes you an iso to a bootable sdcard.
+
+#### Downloadlink: https://www.balena.io/etcher/
+
 
 ### Configure the Pi
+
+
 
 ### Install the Pi in your network
 
