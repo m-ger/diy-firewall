@@ -8,15 +8,32 @@ Every point will also have a short explaination why i would recommend this resou
 
 ### Hardware Requirements:
 
-* 1 "Orange Pi R1" http://www.orangepi.org/OrangePiR1/  
-asdadad
+* 1 "Orange Pi R1" http://www.orangepi.org/OrangePiR1/
 * 1 Power Supply for the Orange Pi
 * 1 SD Card for the Orange Pi
 * 1 Additional Ethernet Cable
 
 ### Software Requirements:
 
-* 1 Armbian ISO Image https://www.armbian.com/orange-pi-r1/
-* 
+* Armbian ISO Image https://www.armbian.com/orange-pi-r1/
+* A way to flash the image to the sdcard
+* Firewall Builder (in latest Version)
+* SSH Client
+* (optional) bind9
+* (optional) isc-hdcp-server
+* (optional) openvpn
 
 
+### Rationale / Consideration of alternatives
+There is a whole universe of Pis, OSs and software. Therefore I'd like to point out why i think this is the best solution and what you should keep in mind for your own project.  
+
+
+## Basic Setup
+
+## Firewall Setup
+
+## DNS
+
+## DHCP
+
+## VPN
