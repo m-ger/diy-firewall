@@ -53,12 +53,19 @@ But in fact you can use any way or software which flashes you an iso to a bootab
 
 #### Downloadlink: https://www.balena.io/etcher/
 
+Flash the Image to your sdcard and then put it into the Pi.
+
+### Install the Pi in your network
+Now you need to setup the Pi between your internal network and the router/modem of your ISP.
+Therefore you unplug the ethernet cable from your ISP router and connect it to you Pi and then take a new ethernet cable and connect this with the spare ethernet port on the Pi and the ISP router where the ethernet cable where plugged before.
 
 ### Configure the Pi
 
+* Boot the Pi.
 
 
-### Install the Pi in your network
+
+
 
 ### 
 
