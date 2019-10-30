@@ -3,6 +3,8 @@ This Project describes how to set up an own firewall within your home network an
 
 ## Concept
 
+![](concept.png "Concept")
+
 ## Target audience
 Basic Pi and Linux knowledge.
 
