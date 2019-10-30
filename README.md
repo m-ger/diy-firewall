@@ -55,13 +55,34 @@ But in fact you can use any way or software which flashes you an iso to a bootab
 
 Flash the Image to your sdcard and then put it into the Pi.
 
+### Configure the Pi
+
+#### Connect to Network
+* Connect the Pi with an ethernet cable to your ISP router or a local switch.
+* Boot the Pi.
+* Now the Pi will try to allocate an IP adress given by the DHCP service on your ISP router.
+* Since you can't connect a monitor to your Pi because there is no HDMI port, you have to find out which IP was given to the Pi. This can be really easy or really tricky depending on the ISP router. Normally the ISP router of any kind should have a webinterface where you can see connected devices. TODO: other ways.
+
+#### Connect to Pi via SSH client
+* Now open up a SSH connection to the IP of your Pi.
+* Linux and Mac have already pre installed ssh clients, for window you will need to use putty.
+
+##### Windows
+* Download Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/
+* Install Putty
+* Enter the IP of the Pi in the edit field for "Host Name (or IP address)" and click "Open"
+
+##### Linux
+* Open a terminal
+* Enter: ssh {IP of the Pi} 
+
+* Now login with the predefined user "root" and password "1234"
+
 ### Install the Pi in your network
 Now you need to setup the Pi between your internal network and the router/modem of your ISP.
 Therefore you unplug the ethernet cable from your ISP router and connect it to you Pi and then take a new ethernet cable and connect this with the spare ethernet port on the Pi and the ISP router where the ethernet cable where plugged before.
 
-### Configure the Pi
 
-* Boot the Pi.
 
 
 
