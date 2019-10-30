@@ -15,4 +15,5 @@ These are soft requirements. You will need these parts but you could also use ot
 
 ### Software Requirements:
 
-* 1 Armbian ISO Image (I'd recommend this Image but you could also another if there is support for the other requirements)
+* 1 Armbian ISO Image https://www.armbian.com/orange-pi-r1/ (I'd recommend this Image but you could also another if there is support for the other requirements)
+* 
