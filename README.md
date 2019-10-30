@@ -66,6 +66,9 @@ Flash the Image to your sdcard and then put it into the Pi.
 #### Connect to Pi via SSH client
 * Now open up a SSH connection to the IP of your Pi.
 * Linux and Mac have already pre installed ssh clients, for window you will need to use putty.
+* Check below for OS specific connections. 
+* After you have succeffully connected to your Pi, login with the predefined user "root" and password "1234"
+* First of all change these credentials with "passwd". Now you will be asked to enter a new password.
 
 ##### Windows
 * Download Putty https://www.chiark.greenend.org.uk/~sgtatham/putty/
@@ -76,7 +79,10 @@ Flash the Image to your sdcard and then put it into the Pi.
 * Open a terminal
 * Enter: ssh {IP of the Pi} 
 
-* Now login with the predefined user "root" and password "1234"
+#### Configure Network
+At the moment your Pi has an IP from the ISP router. This IP is also variable.
+
+
 
 ### Install the Pi in your network
 Now you need to setup the Pi between your internal network and the router/modem of your ISP.
