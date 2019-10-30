@@ -32,12 +32,12 @@ Every point will also have a short explaination why i would recommend this resou
 There is a whole universe of Pis, OSs and software. Therefore I'd like to point out why i think this is the best solution and what you should keep in mind for your own project.  
 
 #### Orange Pi
-The Orange Pi fits perfectly the casual home use. It is small so you can place it easily near your ISP hardware. It is cheap to get and supports two 100mbit ethernet ports. I have no problems with a 100mbit contract.
-
+The Orange Pi fits perfectly the casual home use. It is small so you can place it easily near your ISP hardware. It is cheap to get and supports two 100mbit ethernet ports. So if you have a 100mbit ISP contract like it works fine.
+And here comes the big drawback, if you have more than 100mbit, you might want to get another device.
 
 #### Armbian ISO Image
-
-
+Debian based with good support and really well working OS.
+Clear drawback but a risk you take with any Pi. If the OS is not supported anylonger, you might have an update problem.
 
 
 ## Basic Setup
