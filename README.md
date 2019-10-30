@@ -82,7 +82,13 @@ Flash the Image to your sdcard and then put it into the Pi.
 * Enter: ssh {IP of the Pi} 
 
 #### Configure Network
-At the moment your Pi has an IP from the ISP router. This IP is also variable.
+At the moment your Pi has one IP from the ISP router. This IP is also variable. The Pi is a part of the local network.
+Now we need to setup one new network and enforce IPs which are static and one for each network.
+Because now we will seperate our local network from the ISP network.
+
+![](https://github.com/m-ger/diy-firewall/blob/master/NetworkConfig.png)
+
+
 
 
 
