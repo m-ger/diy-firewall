@@ -21,7 +21,7 @@ Every point will also have a short explaination why i would recommend this resou
 
 * Armbian ISO Image https://www.armbian.com/orange-pi-r1/
 * A way to flash the image to the sdcard
-* Firewall Builder (in latest Version)
+* Firewall Builder http://fwbuilder.sourceforge.net/
 * SSH Client
 * (optional) bind9
 * (optional) isc-hdcp-server
@@ -46,17 +46,31 @@ Clear drawback but a risk you take with any Pi. If the OS is not supported anylo
 
 ### Configure the Pi
 
-### Install the Pi
-
-### Install the Firewall Builder
+### Install the Pi in your network
 
 ### 
 
 
 ## Firewall Setup
 
+### Install Firewall Builder
+
+
 ## DNS
+
+### Install bind9 as dns service
+
+### Configure
 
 ## DHCP
 
+### Install isc-hdcp-server
+
+### Configure
+
+
 ## VPN
+
+### Install OpenVPN
+
+### Configure Client
