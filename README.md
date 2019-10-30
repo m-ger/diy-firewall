@@ -3,7 +3,7 @@ This Project describes how to set up an own firewall within your home network an
 
 ## Concept
 
-![](concept.png "Concept")
+!(https://github.com/m-ger/diy-firewall/blob/master/Concept.png)
 
 ## Target audience
 Basic Pi and Linux knowledge.
