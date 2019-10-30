@@ -8,7 +8,7 @@ Every point will also have a short explaination why i would recommend this resou
 
 ### Hardware Requirements:
 
-* 1 "Orange Pi R1" http://www.orangepi.org/OrangePiR1/
+* 1 "Orange Pi R1" http://www.orangepi.org/OrangePiR1/  
 asdadad
 * 1 Power Supply for the Orange Pi
 * 1 SD Card for the Orange Pi
@@ -16,7 +16,7 @@ asdadad
 
 ### Software Requirements:
 
-* 1 Armbian ISO Image https://www.armbian.com/orange-pi-r1/ (I'd recommend this Image but you could also another if there is support for the other requirements)
+* 1 Armbian ISO Image https://www.armbian.com/orange-pi-r1/
 * 
 
 
