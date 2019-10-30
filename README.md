@@ -27,6 +27,9 @@ Every point will also have a short explaination why i would recommend this resou
 ### Rationale / Consideration of alternatives
 There is a whole universe of Pis, OSs and software. Therefore I'd like to point out why i think this is the best solution and what you should keep in mind for your own project.  
 
+#### Orange Pi
+asdad
+
 
 ## Basic Setup
 
